@@ -1,0 +1,6 @@
+{
+  "name": "Speaking Monkey",
+  "description": "Learn English with Speaking Monkey: AI tutor, pronunciation analysis with Gemini, live voice recognition, speech labs, and gamified roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Speech energy sound rays (Left) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="1"
+        android:pathData="M24,37 C22,34 23,30 26,30 C28,30 30,34 29,38 C27,40 25,39 24,37 Z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="1"
+        android:pathData="M28,47 C26,45 26,42 29,41 C31,41 33,44 32,47 C31,49 29,48 28,47 Z" />
+
+    <!-- Speech energy sound rays (Right) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="1"
+        android:pathData="M84,37 C86,34 85,30 82,30 C80,30 78,34 79,38 C81,40 83,39 84,37 Z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="1"
+        android:pathData="M80,47 C82,45 82,42 79,41 C77,41 75,44 76,47 C77,49 79,48 80,47 Z" />
+
+    <!-- Left Outer Ear -->
+    <path
+        android:fillColor="#4E2608"
+        android:pathData="M37,46 C32,46 28,51 28,57 C28,63 32,68 37,68 C40,68 43,66 45,63 C41,60 40,52 42,47 C40,46 38,46 37,46 Z" />
+    <path
+        android:fillColor="#795548"
+        android:pathData="M37,47.5 C33,47.5 30,51.5 30,57 C30,62 33,66.5 37,66.5 C39,66.5 41,65 43,62 C40,59 39,52 41,48.5 C40,47.8 38,47.5 37,47.5 Z" />
+    <!-- Left Inner Ear -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M36,51 C33.5,51 32,54 32,57 C32,60 33.5,63 36,63 C37.5,63 38.5,61.5 39,59 C38,57 38,53 39,51.5 C38,51.2 37,51 36,51 Z" />
+
+    <!-- Right Outer Ear -->
+    <path
+        android:fillColor="#4E2608"
+        android:pathData="M71,46 C76,46 80,51 80,57 C80,63 76,68 71,68 C68,68 65,66 63,63 C67,60 68,52 66,47 C68,46 70,46 71,46 Z" />
+    <path
+        android:fillColor="#795548"
+        android:pathData="M71,47.5 C75,47.5 78,51.5 78,57 C78,62 75,66.5 71,66.5 C69,66.5 67,65 65,62 C68,59 69,52 67,48.5 C68,47.8 70,47.5 71,47.5 Z" />
+    <!-- Right Inner Ear -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M72,51 C74.5,51 76,54 76,57 C76,60 74.5,63 72,63 C70.5,63 69.5,61.5 69,59 C70,57 70,53 69,51.5 C70,51.2 71,51 72,51 Z" />
+
+    <!-- Monkey Head Base (Brown) with hair tuft -->
+    <path
+        android:fillColor="#5D2E0C"
+        android:pathData="M54,23 C57,20 60,25 61,28 C64,27 67,31 66,35 C73,42 74,58 72,67 C69,76 62,81 54,81 C46,81 39,76 36,67 C34,58 35,42 42,35 C41,31 44,27 47,28 C48,25 51,20 54,23 Z" />
+    <path
+        android:fillColor="#8D4925"
+        android:pathData="M54,25 C56.5,22.5 59,26.5 60,29.5 C62.5,28.5 65,32 64,36 C70.5,43 71.5,57.5 70,65.5 C67.5,74 61,79 54,79 C47,79 40.5,74 38,65.5 C36.5,57.5 37.5,43 44,36 C43,32 45.5,28.5 48,29.5 C49,26.5 51.5,22.5 54,25 Z" />
+
+    <!-- Hair highlight streak (Blonde/Tan highlight on top of head) -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M54,26 C55.5,31 56,36 53,42 C51,37 51.5,32 54,26 Z" />
+
+    <!-- Face Patch (Peach/Warm Tan) -->
+    <!-- Upper Face (Heart shape around eyes) -->
+    <path
+        android:fillColor="#FFF3E0"
+        android:pathData="M54,54 C52,47 42,46 41,53 C40,58 45,63 54,66 C63,63 68,58 67,53 C66,46 56,47 54,54 Z" />
+    <!-- Lower Muzzle (Oval around nose and mouth) -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M54,56 C45,56 42,62 42,67 C42,73 47,76 54,76 C61,76 66,73 66,67 C66,62 63,56 54,56 Z" />
+
+    <!-- Cartoon Eyes -->
+    <!-- Left Eye -->
+    <path
+        android:fillColor="#1A0C02"
+        android:pathData="M48,53 C49.6,53 51,54.8 51,57 C51,59.2 49.6,61 48,61 C46.4,61 45,59.2 45,57 C45,54.8 46.4,53 48,53 Z" />
+    <!-- Left Eye Sparkles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47.2,55 C47.8,55 48.2,55.5 48.2,56.2 C48.2,56.9 47.8,57.4 47.2,57.4 C46.6,57.4 46.2,56.9 46.2,56.2 C46.2,55.5 46.6,55 47.2,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,58.5 A0.6,0.6 0 1,1 47.8,58.5 A0.6,0.6 0 1,1 49,58.5" />
+
+    <!-- Right Eye -->
+    <path
+        android:fillColor="#1A0C02"
+        android:pathData="M60,53 C61.6,53 63,54.8 63,57 C63,59.2 61.6,61 60,61 C58.4,61 57,59.2 57,57 C57,54.8 58.4,53 60,53 Z" />
+    <!-- Right Eye Sparkles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59.2,55 C59.8,55 60.2,55.5 60.2,56.2 C60.2,56.9 59.8,57.4 59.2,57.4 C58.6,57.4 58.2,56.9 58.2,56.2 C58.2,55.5 58.6,55 59.2,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,58.5 A0.6,0.6 0 1,1 59.8,58.5 A0.6,0.6 0 1,1 61,58.5" />
+
+    <!-- Cute Monkey Nose & Nostrils -->
+    <path
+        android:fillColor="#4E2608"
+        android:pathData="M53.2,63.5 C53.2,63.1 53.6,62.8 54,62.8 C54.4,62.8 54.8,63.1 54.8,63.5 C54.8,64 54.4,64.3 54,64.3 C53.6,64.3 53.2,64 53.2,63.5 Z" />
+    <path
+        android:strokeColor="#4E2608"
+        android:strokeWidth="0.8"
+        android:pathData="M52.8,65.2 L52.8,66 M55.2,65.2 L55.2,66" />
+
+    <!-- Cheerful Monkey Smile (Smirk) -->
+    <path
+        android:strokeColor="#3E1A00"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M48,68 C51,71.5 57,71.5 61,67.5" />
+    <!-- Little dimple checkmark at corner of smile -->
+    <path
+        android:strokeColor="#3E1A00"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M60.5,67 C61.5,66.2 62.5,66.5 62.5,67.5" />
+</vector>
